@@ -1,0 +1,23 @@
+.slider h3,
+.slider h5,
+.clients h3{
+    text-shadow: 3px 3px 3px rgba(158, 156, 156, 0.7);
+}
+
+.parallax-container {
+    height: 240px;
+    color: rgba(255,255,255,.9);
+}
+
+.parallax img{
+    background-position:  0px -325px;
+}
+
+section{
+    padding: 20px 0;
+}
+
+.footer-fixed{
+    height: 10px;
+    position: absolute;
+}
